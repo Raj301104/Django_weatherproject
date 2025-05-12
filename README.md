@@ -1,4 +1,4 @@
-Weather App
+                                                                      Weather App
 A simple and responsive weather application built using Django, Python, and OpenWeatherMap API. This app allows users to search for the weather conditions of any city, displaying temperature, weather description, and an appropriate weather icon.
 
 Features
